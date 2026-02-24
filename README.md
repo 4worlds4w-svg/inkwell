@@ -11,9 +11,10 @@ Lightweight, beautiful, portable. One file. No install. No account. Just write.
 ## Download
 
 **[Download for Windows](https://github.com/4worlds/inkwell/releases/latest)** — `inkwell.exe` (11 MB)
+
 **[Download for Linux](https://github.com/4worlds/inkwell/releases/latest)** — `inkwell` (8.5 MB)
 
-No installer. No dependencies. Just the binary.
+No installer. No dependencies.
 
 ---
 
