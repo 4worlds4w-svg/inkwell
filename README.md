@@ -4,7 +4,7 @@
 
 **A Markdown editor that gets out of your way.**
 
-Lightweight, beautiful, portable. One file. No install. No account. Just write.
+Lightweight, beautiful, fast, and portable.
 
 ![Inkwell Screenshot](screenshot.png)
 
@@ -22,7 +22,7 @@ Lightweight, beautiful, portable. One file. No install. No account. Just write.
 
 **Windows:** Download `inkwell.exe`. Double-click. Start writing.
 
-> Windows SmartScreen may warn you on first launch, this is normal for unsigned apps. Click **"More info"** → **"Run anyway"**.
+> Windows SmartScreen may warn you on first launch, this is expected for unsigned apps. Click **"More info"** → **"Run anyway"**.
 
 **Linux:** Download, then:
 ```bash
@@ -36,7 +36,7 @@ chmod +x inkwell
 
 **Editor** — Split view with a draggable divider. Live preview as you type. Current line highlight with accent-colored cursor.
 
-**4 Themes** — Editorial (warm cream), Midnight (dark mode), Mono (black & white), Sepia (vintage warmth). No pure black, no pure white, no eye strain.
+**4 Themes** — Editorial (warm cream), Midnight (dark mode), Mono (black & white), Sepia (vintage warmth).
 
 **3 Font Families** — Crimson Pro (serif), Inter (sans), IBM Plex Mono. Adjustable size from 14–24px.
 
@@ -46,7 +46,7 @@ chmod +x inkwell
 
 **Files** — Tabbed editing. Drag & drop. Auto-save on every keystroke. Recent files. Native save dialogs.
 
-**Images** — Paste from clipboard or drag onto the editor. Large images auto-resized. Stored as data URLs — fully portable.
+**Images** — Paste from clipboard or drag onto the editor. Large images auto-resized. Stored as data URLs, fully portable.
 
 **Templates** — 10 built-in templates + save your own.
 
