@@ -1,3 +1,5 @@
+![Inkwell Banner](banner.png)
+
 # Inkwell
 
 **A Markdown editor that gets out of your way.**
