@@ -2,7 +2,7 @@
 
 # Inkwell
 
-**A Markdown editor that gets out of your way.**
+**Markdown editor that gets out of your way.**
 
 Lightweight, beautiful, fast, and portable.
 
