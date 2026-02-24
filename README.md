@@ -1,0 +1,99 @@
+# Inkwell
+
+**A Markdown editor that gets out of your way.**
+
+Lightweight, beautiful, portable. One file. No install. No account. Just write.
+
+![Inkwell Screenshot](screenshot.png)
+
+---
+
+## Download
+
+**[Download for Windows](https://github.com/4worlds/inkwell/releases/latest)** — `inkwell.exe` (11 MB)
+**[Download for Linux](https://github.com/4worlds/inkwell/releases/latest)** — `inkwell` (8.5 MB)
+
+No installer. No dependencies. Just the binary.
+
+---
+
+## Getting Started
+
+**Windows:** Download `inkwell.exe`. Double-click. Start writing.
+
+> Windows SmartScreen may warn you on first launch — this is normal for unsigned apps. Click **"More info"** → **"Run anyway"**.
+
+**Linux:** Download, then:
+```bash
+chmod +x inkwell
+./inkwell
+```
+
+---
+
+## Features
+
+**Editor** — Split view with a draggable divider. Live preview as you type. Current line highlight with accent-colored cursor.
+
+**4 Themes** — Editorial (warm cream), Midnight (dark mode), Mono (black & white), Sepia (vintage warmth). No pure black, no pure white, no eye strain.
+
+**3 Font Families** — Crimson Pro (serif), Inter (sans), IBM Plex Mono. Adjustable size from 14–24px.
+
+**Focus Mode** — One click to hide everything except your words. Press Esc to return.
+
+**Markdown** — Full GitHub Flavored Markdown. Syntax highlighting for 30+ languages. Copy buttons on code blocks. Styled tables, blockquotes, and checklists.
+
+**Files** — Tabbed editing. Drag & drop. Auto-save on every keystroke. Recent files. Native save dialogs.
+
+**Images** — Paste from clipboard or drag onto the editor. Large images auto-resized. Stored as data URLs — fully portable.
+
+**Templates** — 10 built-in templates + save your own.
+
+**Table of Contents** — Auto-generated from headings. Click to jump. Active section highlighted.
+
+**Version History** — Auto-snapshots every 5 minutes. One-click restore.
+
+**Search** — Ctrl+F across your document. Match highlighting and navigation.
+
+---
+
+## Pro License
+
+Inkwell is **free to use forever**. Write, preview, switch themes, use templates — all of it.
+
+**PDF and HTML exports** require a one-time Pro license. No subscription.
+
+**[Get a Pro license on Gumroad →](https://4worlds.gumroad.com/l/inkwell)**
+
+---
+
+## Technical Details
+
+| | |
+|-|-|
+| **Size** | 11 MB (Windows) · 8.5 MB (Linux) |
+| **Built with** | Rust + Tauri v2 (not Electron) |
+| **Startup** | < 1 second |
+| **Tested with** | 65,000+ word documents |
+| **Data storage** | Local only. Nothing leaves your machine. |
+
+---
+
+## What's Coming
+
+| Version | Features |
+|---------|----------|
+| v1.1 | Find & Replace, typewriter mode |
+| v1.2 | Command palette, Vim keybindings |
+| v1.3 | Mermaid diagrams, LaTeX math |
+| v1.4 | macOS, custom themes, manual update check |
+
+---
+
+## Philosophy
+
+Inkwell is part of **4Worlds** — a suite of portable, offline-first, buy-to-own software. No cloud. No telemetry. No accounts. Your tools, your data, your machine.
+
+---
+
+Built with Rust. Designed for writers. Ships as a single file.
