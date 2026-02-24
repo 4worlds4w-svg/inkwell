@@ -96,8 +96,12 @@ Inkwell is **free to use forever**. Write, preview, switch themes, use templates
 
 ## Philosophy
 
-Inkwell is part of **4Worlds** a suite of portable, offline-first, buy-to-own software built by a small team. No cloud. No telemetry. No accounts. Your tools, your data, your machine.
+Inkwell is the first release from **4Worlds**, a small independent software studio building tools that respect the people who use them.
 
----
+No cloud. No telemetry. No accounts. No subscriptions. Just software you own, on hardware you control.
 
-Built with Rust. Designed for writers. Ships as a single executable.
+We ship tools we'd want to use ourselves.
+
+We also believe the best tools are quiet, fast, and permanent. Inkwell is the first. More are coming.
+
+
