@@ -21,7 +21,7 @@ No installer. No dependencies. Just the binary.
 
 **Windows:** Download `inkwell.exe`. Double-click. Start writing.
 
-> Windows SmartScreen may warn you on first launch — this is normal for unsigned apps. Click **"More info"** → **"Run anyway"**.
+> Windows SmartScreen may warn you on first launch, this is normal for unsigned apps. Click **"More info"** → **"Run anyway"**.
 
 **Linux:** Download, then:
 ```bash
@@ -92,8 +92,8 @@ Inkwell is **free to use forever**. Write, preview, switch themes, use templates
 
 ## Philosophy
 
-Inkwell is part of **4Worlds** — a suite of portable, offline-first, buy-to-own software. No cloud. No telemetry. No accounts. Your tools, your data, your machine.
+Inkwell is part of **4Worlds** a suite of portable, offline-first, buy-to-own software built by a small team. No cloud. No telemetry. No accounts. Your tools, your data, your machine.
 
 ---
 
-Built with Rust. Designed for writers. Ships as a single file.
+Built with Rust. Designed for writers. Ships as a single executable.
