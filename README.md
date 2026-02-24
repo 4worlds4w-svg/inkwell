@@ -16,9 +16,6 @@ Lightweight, beautiful, portable. One file. No install. No account. Just write.
 
 **[Download for Linux](https://github.com/4worlds4w-svg/inkwell/releases/tag/v1.0.0)** — `inkwell` (8.5 MB)
 
-
-No installer. No dependencies.
-
 ---
 
 ## Getting Started
