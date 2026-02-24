@@ -60,11 +60,11 @@ chmod +x inkwell
 
 ## Pro License
 
-Inkwell is **free to use forever**. Write, preview, switch themes, use templates — all of it.
+Inkwell is **free to use forever**. Write, preview, switch themes, use templates, all of it.
 
 **PDF and HTML exports** require a one-time Pro license. No subscription.
 
-**[Get a Pro license on Gumroad →](https://4worlds.gumroad.com/l/inkwell)**
+**[Get a Pro license on Gumroad →](https://4worlds.gumroad.com/l/inkwell)**  (FREE for the first 100 people)
 
 ---
 
