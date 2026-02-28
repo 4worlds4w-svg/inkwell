@@ -120,4 +120,4 @@ Found a bug? Have a suggestion? We'd love to hear from you.
 - **Open an issue** on this repo
 - **Email us** at studio@4worlds.dev
 
-We build on all platforms but can't test every setup — macOS reports especially welcome.
+We build on all platforms but can't test every setup, macOS reports especially welcome.
