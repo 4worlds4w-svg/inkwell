@@ -2,6 +2,23 @@
 
 All notable changes to Inkwell will be documented here.
 
+## [v1.0.1] — 2026-02-27
+
+### Bug Fixes
+- PDF export no longer fails silently on macOS — error messages are now shown to the user
+- Fixed line highlight misalignment on macOS
+- Fixed unreachable code compiler warning on macOS builds
+
+### UX
+- Added Save button in the sidebar Actions section
+
+### Platforms
+- Added macOS support (DMG)
+
+[v1.0.1]: https://github.com/4worlds4w-svg/inkwell/releases/tag/v1.0.1
+
+---
+
 ## [v1.0.0] — 2026-02-26
 
 Initial release.

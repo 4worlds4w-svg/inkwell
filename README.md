@@ -12,19 +12,29 @@ Lightweight, beautiful, fast, and portable.
 
 ## Download
 
-**[Download for Windows](https://github.com/4worlds4w-svg/inkwell/releases/tag/v1.0.0)** — `inkwell.exe` (11 MB)
+**[Download for Windows](https://github.com/4worlds4w-svg/inkwell/releases/tag/v1.0.1)** — `inkwell-v1.0.1-windows-x64.zip`
 
-**[Download for Linux](https://github.com/4worlds4w-svg/inkwell/releases/tag/v1.0.0)** — `inkwell` (8.5 MB)
+**[Download for macOS](https://github.com/4worlds4w-svg/inkwell/releases/tag/v1.0.1)** — `inkwell-macos-dmg.zip`
+
+**[Download for Linux](https://github.com/4worlds4w-svg/inkwell/releases/tag/v1.0.1)** — `inkwell-v1.0.1-linux-x64.zip`
 
 ---
 
 ## Getting Started
 
-**Windows:** Download `inkwell.exe`. Double-click. Start writing.
+**Windows:** Download and unzip. Run `inkwell.exe`. Start writing.
 
 > Windows SmartScreen may warn you on first launch, this is expected for unsigned apps. Click **"More info"** → **"Run anyway"**.
 
-**Linux:** Download, then:
+**macOS:** Download and unzip. Open the `.dmg` and drag Inkwell to Applications.
+
+> macOS Gatekeeper may block unsigned apps. If that happens, run:
+> ```bash
+> xattr -cr /Applications/Inkwell.app
+> ```
+> Then open normally.
+
+**Linux:** Download and unzip, then:
 ```bash
 chmod +x inkwell
 ./inkwell
@@ -72,7 +82,7 @@ Inkwell is **free to use forever**. Write, preview, switch themes, use templates
 
 | | |
 |-|-|
-| **Size** | 11 MB (Windows) · 8.5 MB (Linux) |
+| **Size** | ~11 MB (Windows) · ~8.5 MB (Linux/macOS) |
 | **Built with** | Rust + Tauri v2 (not Electron) |
 | **Startup** | < 1 second |
 | **Tested with** | 65,000+ word documents |
@@ -87,7 +97,7 @@ Inkwell is **free to use forever**. Write, preview, switch themes, use templates
 | v1.1 | Find & Replace, typewriter mode |
 | v1.2 | Command palette, Vim keybindings |
 | v1.3 | Mermaid diagrams, LaTeX math |
-| v1.4 | macOS, custom themes, manual update check |
+| v1.4 | Custom themes, manual update check |
 
 ---
 
@@ -101,4 +111,13 @@ We ship tools we'd want to use ourselves.
 
 We also believe the best tools are quiet, fast, and permanent. Inkwell is the first. More are coming.
 
+---
 
+## Feedback
+
+Found a bug? Have a suggestion? We'd love to hear from you.
+
+- **Open an issue** on this repo
+- **Email us** at studio@4worlds.dev
+
+We build on all platforms but can't test every setup — macOS reports especially welcome.
