@@ -2,6 +2,21 @@
 
 All notable changes to Inkwell will be documented here.
 
+## [v1.1] — 2026-03-12
+
+### New Features
+- **Find & Replace** (Ctrl+F) — search with replace single or replace all, highlights matches in preview
+- **Typewriter mode** — keeps cursor line centered while typing, toggle in toolbar, persists across sessions
+- **History diff viewer** — two tabs in version history modal: Preview (rendered markdown) and Changes (line-by-line diff with green/red highlights, context collapsing, +added/−removed stats)
+
+### UX
+- Split divider — wider grab area, more visible, double-click to reset to 50/50
+- Search bar closes on outside click, clears inputs on reopen
+
+[v1.1]: https://github.com/4worlds4w-svg/inkwell/releases/tag/v1.1
+
+---
+
 ## [v1.0.1] — 2026-02-27
 
 ### Bug Fixes

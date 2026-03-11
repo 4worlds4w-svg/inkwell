@@ -12,11 +12,11 @@ Lightweight, beautiful, fast, and portable.
 
 ## Download
 
-**[Download for Windows](https://github.com/4worlds4w-svg/inkwell/releases/tag/v1.0.1)** — `inkwell-v1.0.1-windows-x64.zip`
+**[Download for Windows](https://github.com/4worlds4w-svg/inkwell/releases/tag/v1.1)** — `inkwell-v1.1-windows-x64.zip`
 
-**[Download for macOS](https://github.com/4worlds4w-svg/inkwell/releases/tag/v1.0.1)** — `inkwell-macos-dmg.zip`
+**[Download for macOS](https://github.com/4worlds4w-svg/inkwell/releases/tag/v1.1)** — `inkwell-v1.1-macos.dmg` *(coming soon)*
 
-**[Download for Linux](https://github.com/4worlds4w-svg/inkwell/releases/tag/v1.0.1)** — `inkwell-v1.0.1-linux-x64.zip`
+**[Download for Linux](https://github.com/4worlds4w-svg/inkwell/releases/tag/v1.1)** — `inkwell-v1.1-linux-x64.tar.gz`
 
 ---
 
@@ -62,9 +62,11 @@ chmod +x inkwell
 
 **Table of Contents** — Auto-generated from headings. Click to jump. Active section highlighted.
 
-**Version History** — Auto-snapshots every 5 minutes. One-click restore.
+**Version History** — Auto-snapshots every 5 minutes. One-click restore. Diff viewer shows line-by-line changes.
 
-**Search** — Ctrl+F across your document. Match highlighting and navigation.
+**Find & Replace** — Ctrl+F with replace single or replace all. Match highlighting and navigation.
+
+**Typewriter Mode** — Keeps the cursor line centered while typing. Toggle in toolbar.
 
 ---
 
@@ -94,7 +96,6 @@ Inkwell is **free to use forever**. Write, preview, switch themes, use templates
 
 | Version | Features |
 |---------|----------|
-| v1.1 | Find & Replace, typewriter mode |
 | v1.2 | Command palette, Vim keybindings |
 | v1.3 | Mermaid diagrams, LaTeX math |
 | v1.4 | Custom themes, manual update check |
