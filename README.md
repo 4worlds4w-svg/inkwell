@@ -85,10 +85,10 @@ Inkwell is **free to use forever**. Write, preview, switch themes, use templates
 | | |
 |-|-|
 | **Size** | ~11 MB (Windows) · ~8.5 MB (Linux/macOS) |
-| **Built with** | Rust + Tauri v2 (not Electron) |
-| **Startup** | < 1 second |
-| **Tested with** | 65,000+ word documents |
-| **Data storage** | Local only. Nothing leaves your machine. |
+| **Built with** | Rust + Tauri v2 |
+| **Startup** | ~ 1 second |
+| **Tested with** | 10k+ words .md files |
+| **Data storage** | Local. |
 
 ---
 
@@ -96,8 +96,8 @@ Inkwell is **free to use forever**. Write, preview, switch themes, use templates
 
 | Version | Features |
 |---------|----------|
-| v1.2 | Command palette, Vim keybindings |
-| v1.3 | Mermaid diagrams, LaTeX math |
+| v1.2 | Command palette, LaTeX math |
+| v1.3 | Mermaid diagrams |
 | v1.4 | Custom themes, manual update check |
 
 ---
