@@ -14,7 +14,7 @@ Lightweight, beautiful, fast, and portable.
 
 **[Download for Windows](https://github.com/4worlds4w-svg/inkwell/releases/tag/v1.1)** — `inkwell-v1.1-windows-x64.zip`
 
-**[Download for macOS](https://github.com/4worlds4w-svg/inkwell/releases/tag/v1.1)** — `inkwell-v1.1-macos.dmg` *(coming soon)*
+**[Download for macOS](https://github.com/4worlds4w-svg/inkwell/releases/tag/v1.1)** — `inkwell-v1.1-macos.dmg` *(built with actions - submit issues on this repo for now, if needed)*
 
 **[Download for Linux](https://github.com/4worlds4w-svg/inkwell/releases/tag/v1.1)** — `inkwell-v1.1-linux-x64.tar.gz`
 
