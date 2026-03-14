@@ -81,7 +81,7 @@ chmod +x inkwell
 
 Inkwell is **free to use forever**. Write, preview, switch themes, use templates, all of it.
 
-**PDF and HTML exports** require a one-time Pro license. No subscription.
+**PDF and HTML exports** require a one-time Pro license.
 
 **[Get a Pro license on Gumroad →](https://4worlds.gumroad.com/l/inkwell)**  (FREE for the first 100 people)
 
@@ -103,8 +103,8 @@ Inkwell is **free to use forever**. Write, preview, switch themes, use templates
 
 | Version | Features |
 |---------|----------|
-| v1.2 | Command palette, LaTeX math |
-| v1.3 | Mermaid diagrams |
+| v1.2 | Workspace & File Tree, LaTeX math |
+| v1.3 | Mermaid diagrams, Command palette |
 | v1.4 | Custom themes, manual update check |
 
 ---
