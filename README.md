@@ -113,11 +113,15 @@ Inkwell is **free to use forever**. Write, preview, switch themes, use templates
 
 Inkwell is the first release from **[4Worlds](https://4worlds.dev)**, a small independent software studio building tools that respect the people who use them.
 
-No cloud. No telemetry. No accounts. No subscriptions. Just software you own, on hardware you control.
+There's no cloud, telemetry, accounts, or subscriptions. Just software you own, on hardware you control.
 
-We ship tools we'd want to use ourselves.
+We ship tools we use and that we'd want to use ourselves.
 
-We also believe the best tools are quiet, fast, and permanent. Inkwell is the first. More are coming.
+We also believe the best tools are quiet, fast, and permanent. Inkwell is our first release, with more to come.
+
+In this age of rapid acceleration, we believe that the most important narratives are usually the ones least talked about. That includes privacy.
+
+Our mission is to raise awareness and facilitate workflows aligned with this ethos.
 
 ---
 
