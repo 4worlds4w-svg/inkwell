@@ -95,7 +95,7 @@ Inkwell is **free to use forever**. Write, preview, switch themes, use templates
 | **Built with** | Rust + Tauri v2 |
 | **Startup** | ~ 1 second |
 | **Tested with** | 10k+ words .md files |
-| **Data storage** | Local. |
+| **Data storage** | Local |
 
 ---
 
@@ -103,9 +103,10 @@ Inkwell is **free to use forever**. Write, preview, switch themes, use templates
 
 | Version | Features |
 |---------|----------|
-| v1.2 | Workspace & File Tree, LaTeX math |
-| v1.3 | Mermaid diagrams, Command palette |
-| v1.4 | Custom themes, manual update check |
+| v1.2 | Workspace & file tree, Mermaid diagrams, LaTeX math |
+| v1.3 | Command palette, custom themes |
+| v1.4 | Vim keybindings, DOCX/EPUB export |
+| v2.0 | Local AI (Ollama), spell check, macOS signed |
 
 ---
 
