@@ -115,7 +115,7 @@ Inkwell is the first release from **[4Worlds](https://4worlds.dev)**, a small in
 
 There's no cloud, telemetry, accounts, or subscriptions. Just software you own, on hardware you control.
 
-We ship tools we use and that we'd want to use ourselves.
+We ship tools we use and we'd want to use ourselves.
 
 We also believe the best tools are quiet, fast, and permanent. Inkwell is our first release, with more to come.
 
