@@ -51,9 +51,17 @@ chmod +x inkwell
 
 ## Features
 
+**Workspace & File Tree** — Open any folder, browse and switch between .md files from the sidebar. Persists between sessions.
+
+**Mermaid Diagrams** — Write flowcharts, sequence diagrams, and more in fenced code blocks. Live rendering in the preview pane.
+
+**LaTeX Math (KaTeX)** — Inline $...$ and display $$...$$ equations rendered beautifully. Full KaTeX support.
+
+**Custom Title Bar** — No OS chrome. The entire window is Inkwell
+
 **Editor** — Split view with a draggable divider. Live preview as you type. Current line highlight with accent-colored cursor.
 
-**4 Themes** — Editorial (warm cream), Midnight (dark mode), Mono (black & white), Sepia (vintage warmth).
+**4 Themes** — 4 Themes — Editorial (warm cream), Midnight (warm charcoal), Mono (cool steel), Sepia (aged parchment). All unified by Inkwell's signature accent.
 
 **3 Font Families** — Crimson Pro (serif), Inter (sans), IBM Plex Mono. Adjustable size from 14–24px.
 
@@ -91,7 +99,7 @@ Inkwell is **free to use forever**. Write, preview, switch themes, use templates
 
 | | |
 |-|-|
-| **Size** | ~11 MB (Windows) · ~8.5 MB (Linux/macOS) |
+| **Size** | ~12 MB (Windows) · ~9 MB Linux | ~5.5 MB macOS |
 | **Built with** | Rust + Tauri v2 |
 | **Startup** | ~ 1 second |
 | **Tested with** | 10k+ words .md files |
@@ -103,8 +111,7 @@ Inkwell is **free to use forever**. Write, preview, switch themes, use templates
 
 | Version | Features |
 |---------|----------|
-| v1.2 | Workspace & file tree, Mermaid diagrams, LaTeX math |
-| v1.3 | Command palette, custom themes |
+| v1.3 | Command palette |
 | v1.4 | Vim keybindings, DOCX/EPUB export |
 | v2.0 | Local AI (Ollama), spell check, macOS signed |
 
