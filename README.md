@@ -99,7 +99,7 @@ Inkwell is **free to use forever**. Write, preview, switch themes, use templates
 
 | | |
 |-|-|
-| **Size** | ~12 MB (Windows) · ~9 MB Linux | ~5.5 MB macOS |
+| **Size** | ~12 MB (Windows) ~9 MB Linux ~5.5 MB macOS |
 | **Built with** | Rust + Tauri v2 |
 | **Startup** | ~ 1 second |
 | **Tested with** | 10k+ words .md files |
