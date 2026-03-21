@@ -9,7 +9,7 @@
 
 # Inkwell
 
-**Markdown editor that gets out of your way.**
+**The sovereign markdown editor.**
 
 Lightweight, beautiful, fast, and portable.
 
@@ -19,11 +19,17 @@ Lightweight, beautiful, fast, and portable.
 
 ## Download
 
-**[Download for Windows](https://github.com/4worlds4w-svg/inkwell/releases/tag/v1.1)** — `inkwell-v1.1-windows-x64.zip`
+**[Download for Windows](https://github.com/4worlds4w-svg/inkwell/releases/download/v1.2.0/inkwell-v1.2.0-windows-x64.zip)** — `inkwell-v1.2.0-windows-x64.zip`
 
-**[Download for macOS](https://github.com/4worlds4w-svg/inkwell/releases/tag/v1.1)** — `inkwell-v1.1-macos.dmg` *(built with actions - submit issues on this repo for now, if needed)*
+**[Download for macOS](https://github.com/4worlds4w-svg/inkwell/releases/download/v1.2.0/Inkwell_1.2.0_aarch64.dmg)** — `Inkwell_1.2.0_aarch64.dmg`
 
-**[Download for Linux](https://github.com/4worlds4w-svg/inkwell/releases/tag/v1.1)** — `inkwell-v1.1-linux-x64.tar.gz`
+**[Download for Linux](https://github.com/4worlds4w-svg/inkwell/releases/latest)** — `inkwell-v1.2.1-linux-x64.tar.gz`
+
+Or via winget:
+
+```bash
+winget install 4Worlds.Inkwell
+```
 
 ---
 
@@ -33,7 +39,7 @@ Lightweight, beautiful, fast, and portable.
 
 > Windows SmartScreen may warn you on first launch, this is expected for unsigned apps. Click **"More info"** → **"Run anyway"**.
 
-**macOS:** Download and unzip. Open the `.dmg` and drag Inkwell to Applications.
+**macOS:** Download the `.dmg` and drag Inkwell to Applications.
 
 > macOS Gatekeeper may block unsigned apps. If that happens, run:
 > ```bash
@@ -41,7 +47,7 @@ Lightweight, beautiful, fast, and portable.
 > ```
 > Then open normally.
 
-**Linux:** Download and unzip, then:
+**Linux:** Download and extract, then:
 ```bash
 chmod +x inkwell
 ./inkwell
@@ -55,13 +61,13 @@ chmod +x inkwell
 
 **Mermaid Diagrams** — Write flowcharts, sequence diagrams, and more in fenced code blocks. Live rendering in the preview pane.
 
-**LaTeX Math (KaTeX)** — Inline $...$ and display $$...$$ equations rendered beautifully. Full KaTeX support.
+**LaTeX Math (KaTeX)** — Inline `$...$` and display `$$...$$` equations rendered beautifully. Full KaTeX support.
 
-**Custom Title Bar** — No OS chrome. The entire window is Inkwell
+**Custom Title Bar** — No OS chrome. The entire window is Inkwell, themed edge to edge.
 
 **Editor** — Split view with a draggable divider. Live preview as you type. Current line highlight with accent-colored cursor.
 
-**4 Themes** — 4 Themes — Editorial (warm cream), Midnight (warm charcoal), Mono (cool steel), Sepia (aged parchment). All unified by Inkwell's signature accent.
+**4 Themes** — Editorial (warm cream), Midnight (warm charcoal), Mono (cool steel), Sepia (aged parchment). All unified by Inkwell's signature accent.
 
 **3 Font Families** — Crimson Pro (serif), Inter (sans), IBM Plex Mono. Adjustable size from 14–24px.
 
@@ -91,7 +97,7 @@ Inkwell is **free to use forever**. Write, preview, switch themes, use templates
 
 **PDF and HTML exports** require a one-time Pro license.
 
-**[Get a Pro license on Gumroad →](https://4worlds.gumroad.com/l/inkwell)**  (FREE for the first 100 people)
+**[Get a Pro license on Gumroad →](https://4worlds.gumroad.com/l/inkwell)**
 
 ---
 
@@ -99,11 +105,11 @@ Inkwell is **free to use forever**. Write, preview, switch themes, use templates
 
 | | |
 |-|-|
-| **Size** | ~12 MB (Windows) ~9 MB Linux ~5.5 MB macOS |
-| **Built with** | Rust + Tauri v2 |
-| **Startup** | ~ 1 second |
-| **Tested with** | 10k+ words .md files |
-| **Data storage** | Local |
+| **Size** | ~12 MB (Windows) · ~5.5 MB (macOS) |
+| **Built with** | Rust + Tauri v2, vanilla JS (zero dependencies) |
+| **Startup** | < 1 second |
+| **Tested with** | 65k+ word documents |
+| **Data storage** | 100% local, zero telemetry |
 
 ---
 
@@ -111,8 +117,8 @@ Inkwell is **free to use forever**. Write, preview, switch themes, use templates
 
 | Version | Features |
 |---------|----------|
-| v1.3 | Command palette |
-| v1.4 | Vim keybindings, DOCX/EPUB export |
+| v1.3 | Command palette, custom themes |
+| v1.4 | Sidebar redesign, Vim keybindings, DOCX/EPUB export |
 | v2.0 | Local AI (Ollama), spell check, macOS signed |
 
 ---
@@ -135,8 +141,8 @@ Our mission is to raise awareness and facilitate workflows aligned with this eth
 
 ## Feedback
 
-Found a bug? Have a suggestion? We'd love to hear from you.
-
+- **[Documentation](https://inkwell.4worlds.dev)** — guides, features, shortcuts
+- **[Discussions](https://github.com/4worlds4w-svg/inkwell/discussions)** — feature requests, ideas, or just say hi
 - **Open an issue** on this repo
 - **Email us** at studio@4worlds.dev
 
