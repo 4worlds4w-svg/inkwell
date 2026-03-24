@@ -2,6 +2,47 @@
 
 All notable changes to Inkwell will be documented here.
 
+## [v1.3.0] — 2026-03-24
+
+### New Features
+- **Command Palette** (Ctrl+K) — fuzzy search all 22 actions, keyboard navigation, shortcut hints
+- **Custom Theme Creator** — 6 color pickers, live preview, derived colors computed automatically
+
+### Improved
+- HTML and PDF exports now include syntax highlighting, KaTeX math fonts, Mermaid diagram SVGs, and H2-based chapter breaks for PDF
+- PDF export no longer freezes the UI during generation
+
+### Security
+- Improved input sanitization and file operation safety across the board
+
+[v1.3.0]: https://github.com/4worlds4w-svg/inkwell/releases/tag/v1.3.0
+
+---
+
+## [v1.2.1] — 2026-03-21
+
+### Platforms
+- Linux: added .desktop file and bundled icon for proper app launcher integration
+
+[v1.2.1]: https://github.com/4worlds4w-svg/inkwell/releases/tag/v1.2.1
+
+---
+
+## [v1.2] — 2026-03-17
+
+### New Features
+- **Workspace & File Tree** — open any folder, browse .md files from the sidebar, persists between sessions
+- **Mermaid Diagrams** — flowcharts, sequence diagrams, and more in fenced code blocks with live rendering
+- **LaTeX Math (KaTeX)** — inline `$...$` and display `$$...$$` equations
+- **Custom Title Bar** — no OS chrome, fully themed window with drag/snap/minimize/maximize/close
+
+### UX
+- Unified brand identity across all 4 themes with signature rust accent
+
+[v1.2]: https://github.com/4worlds4w-svg/inkwell/releases/tag/v1.2
+
+---
+
 ## [v1.1] — 2026-03-12
 
 ### New Features
