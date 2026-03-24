@@ -19,11 +19,11 @@ Lightweight, beautiful, fast, and portable.
 
 ## Download
 
-**[Download for Windows](https://github.com/4worlds4w-svg/inkwell/releases/download/v1.2.0/inkwell-v1.2.0-windows-x64.zip)** — `inkwell-v1.2.0-windows-x64.zip`
+**[Download for Windows](https://github.com/4worlds4w-svg/inkwell/releases/download/v1.3.0/inkwell-v1.3.0-windows-x64.zip)** — `inkwell-v1.3.0-windows-x64.zip`
 
-**[Download for macOS](https://github.com/4worlds4w-svg/inkwell/releases/download/v1.2.0/Inkwell_1.2.0_aarch64.dmg)** — `Inkwell_1.2.0_aarch64.dmg`
+**[Download for macOS](https://github.com/4worlds4w-svg/inkwell/releases/download/v1.3.0/Inkwell_1.3.0_aarch64.dmg)** — `Inkwell_1.3.0_aarch64.dmg`
 
-**[Download for Linux](https://github.com/4worlds4w-svg/inkwell/releases/latest)** — `inkwell-v1.2.1-linux-x64.tar.gz`
+**[Download for Linux](https://github.com/4worlds4w-svg/inkwell/releases/download/v1.3.0/inkwell-v1.3.0-linux-x64.tar.gz)** — `inkwell-v1.3.0-linux-x64.tar.gz`
 
 Or via winget:
 
@@ -56,6 +56,10 @@ chmod +x inkwell
 ---
 
 ## Features
+
+**Command Palette** — Press Ctrl+K to fuzzy-search all actions. Full keyboard navigation with shortcut hints.
+
+**Custom Themes** — Build your own theme with 6 color pickers and live preview.
 
 **Workspace & File Tree** — Open any folder, browse and switch between .md files from the sidebar. Persists between sessions.
 
@@ -110,16 +114,6 @@ Inkwell is **free to use forever**. Write, preview, switch themes, use templates
 | **Startup** | < 1 second |
 | **Tested with** | 65k+ word documents |
 | **Data storage** | 100% local, zero telemetry |
-
----
-
-## What's Coming
-
-| Version | Features |
-|---------|----------|
-| v1.3 | Command palette, custom themes |
-| v1.4 | Sidebar redesign, Vim keybindings, DOCX/EPUB export |
-| v2.0 | Local AI (Ollama), spell check, macOS signed |
 
 ---
 
