@@ -31,6 +31,13 @@ Or via winget:
 winget install 4Worlds.Inkwell
 ```
 
+Or from the Windows Store:
+
+<a href="https://apps.microsoft.com/detail/9PFTZ8H9X04K">
+  <img src="https://get.microsoft.com/images/en-us%20dark.svg" alt="Get it from Microsoft" width="200" />
+</a>
+
+
 ---
 
 ## Getting Started
