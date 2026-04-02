@@ -148,3 +148,13 @@ Our mission is to raise awareness and facilitate workflows aligned with this eth
 - **Email us** at studio@4worlds.dev
 
 We build on all platforms but can't test every setup, macOS reports especially welcome.
+
+## Star History
+
+<a href="https://www.star-history.com/?repos=4worlds4w-svg%2Finkwell&type=timeline&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=4worlds4w-svg/inkwell&type=timeline&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=4worlds4w-svg/inkwell&type=timeline&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/image?repos=4worlds4w-svg/inkwell&type=timeline&legend=top-left" />
+ </picture>
+</a>
