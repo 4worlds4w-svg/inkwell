@@ -2,6 +2,27 @@
 
 All notable changes to Inkwell will be documented here.
 
+## [v1.4.0] — 2026-03-30
+
+### New Features
+- **Typst PDF Engine** — replaced WebView2 print-to-PDF with a native Rust typesetting engine. Professional typography, chapter breaks, math equations, and Mermaid diagrams in PDFs. Cross-platform — no browser dependency.
+- **Clickable TOC links in PDFs** — exported PDFs now include navigable headings via Typst labels.
+
+### Improved
+- Preview TOC links now scroll to heading instead of opening browser
+- Ctrl+O (open file) and Ctrl+Shift+P (export PDF) keyboard shortcuts restored
+- Consistent error types across all export functions
+
+### Security
+- HTML export title escaped (XSS fix)
+
+### Platforms
+- Microsoft Store launch as "Inkwell Editor"
+
+[v1.4.0]: https://github.com/4worlds4w-svg/inkwell/releases/tag/v1.4.0
+
+---
+
 ## [v1.3.0] — 2026-03-24
 
 ### New Features
