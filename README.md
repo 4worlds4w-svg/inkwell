@@ -1,7 +1,7 @@
 ![Inkwell Banner](banner.png)
 <p align="center">
   <img src="https://img.shields.io/github/v/release/4worlds4w-svg/inkwell?label=version" />
-  <img src="https://img.shields.io/github/downloads/4worlds4w-svg/inkwell/total?v=2" />
+  <img src="https://img.shields.io/github/downloads/4worlds4w-svg/inkwell/total" />
   <img src="https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey" />
   <img src="https://img.shields.io/badge/built%20with-Tauri%20v2-blue" />
   <img src="https://img.shields.io/badge/license-Free%20%2B%20Pro-green" />
