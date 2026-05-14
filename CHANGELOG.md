@@ -2,6 +2,24 @@
 
 All notable changes to Inkwell will be documented here.
 
+## [v1.5.0] — 2026-05-06
+
+### New Features
+- **SQLite Persistence** — workspace state, files, recent files, templates, themes, and version history now live in a real local database (`inkwell.db`) instead of browser localStorage. Faster, more reliable, no storage cap.
+- **Automatic migration** on first launch v1.4 users upgrade cleanly with no data loss.
+
+### Improved
+- Polished native save dialog
+- Search no longer lags on large files (debounced input, removed full re-render)
+
+### Bug Fixes
+- Window dragging restored
+
+[v1.5.0]: https://github.com/4worlds4w-svg/inkwell/releases/tag/v1.5.0
+
+---
+
+
 ## [v1.4.0] — 2026-03-30
 
 ### New Features
