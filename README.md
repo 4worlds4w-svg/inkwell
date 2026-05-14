@@ -19,11 +19,12 @@ Lightweight, beautiful, fast, and portable.
 
 ## Download
 
-**[Download for Windows](https://github.com/4worlds4w-svg/inkwell/releases/download/v1.3.0/inkwell-v1.3.0-windows-x64.zip)** — `inkwell-v1.3.0-windows-x64.zip`
+**[Download for Windows](https://github.com/4worlds4w-svg/inkwell/releases/download/v1.5.0/inkwell.exe)** — `inkwell.exe`
 
-**[Download for macOS](https://github.com/4worlds4w-svg/inkwell/releases/download/v1.3.0/Inkwell_1.3.0_aarch64.dmg)** — `Inkwell_1.3.0_aarch64.dmg`
+**[Download for macOS](https://github.com/4worlds4w-svg/inkwell/releases/download/v1.5.0/Inkwell_1.5.0_aarch64.dmg)** — `Inkwell_1.5.0_aarch64.dmg`
 
-**[Download for Linux](https://github.com/4worlds4w-svg/inkwell/releases/download/v1.3.0/inkwell-v1.3.0-linux-x64.tar.gz)** — `inkwell-v1.3.0-linux-x64.tar.gz`
+**[Download for Linux](https://github.com/4worlds4w-svg/inkwell/releases/download/v1.5.0/Inkwell_1.5.0_amd64.deb)** — `Inkwell_1.5.0_amd64.deb`
+
 
 Or via winget:
 
@@ -63,6 +64,10 @@ chmod +x inkwell
 ---
 
 ## Features
+
+**Typst PDF Engine** — Native Rust typesetting for PDF exports. Professional typography, chapter breaks, math equations, and Mermaid diagrams. Cross-platform, no browser dependency.
+
+**SQLite Persistence** — Workspace state, files, templates, themes, and history live in a local database (`inkwell.db`). Faster, more reliable, no browser storage limits.
 
 **Command Palette** — Press Ctrl+K to fuzzy-search all actions. Full keyboard navigation with shortcut hints.
 
@@ -116,7 +121,7 @@ Inkwell is **free to use forever**. Write, preview, switch themes, use templates
 
 | | |
 |-|-|
-| **Size** | ~12 MB (Windows) · ~5.5 MB (macOS) |
+| **Size** | ~44 MB (Windows) · ~18 MB (macOS · Linux) |
 | **Built with** | Rust + Tauri v2, vanilla JS (zero dependencies) |
 | **Startup** | < 1 second |
 | **Tested with** | 65k+ word documents |
