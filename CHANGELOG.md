@@ -2,6 +2,21 @@
 
 All notable changes to Inkwell will be documented here.
 
+## [v1.5.1] — 2026-05-25
+
+### Bug Fixes
+- **OS file association** — Inkwell now reads the file path passed by the OS when you double-click a `.md` file. Works whether Inkwell is closed (cold start) or already running. Baseline desktop integration; should have been there from v1.0.
+- **Inline math regex** — single-character math (`$r$`), formulas like `$0A+2B$`, and parenthesised expressions like `$(A+B+C)$` render again. Currency notation (`$5 and $10`) still correctly ignored.
+
+### Improved
+- **Periodic disk auto-save** — files with a saved path now write to disk every 30 seconds in addition to the existing workspace-database save. Untitled files stay in the workspace database until you Save As, same as before.
+
+### Platforms
+- `.md` and `.markdown` file associations declared for the macOS .dmg, Linux .deb, and MSIX (Microsoft Store) bundlers.
+
+[v1.5.1]: https://github.com/4worlds4w-svg/inkwell/releases/tag/v1.5.1
+
+
 ## [v1.5.0] — 2026-05-06
 
 ### New Features
