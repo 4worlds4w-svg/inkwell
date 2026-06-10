@@ -148,6 +148,7 @@ Our mission is to raise awareness and facilitate workflows aligned with this eth
 ## Feedback
 
 - **[Documentation](https://inkwell.4worlds.dev)** — guides, features, shortcuts
+- **[Compare](https://inkwell.4worlds.dev/vs)** — how Inkwell compares to Typora, iA Writer & Notion
 - **[Discussions](https://github.com/4worlds4w-svg/inkwell/discussions)** — feature requests, ideas, or just say hi
 - **Open an issue** on this repo
 - **Email us** at studio@4worlds.dev
