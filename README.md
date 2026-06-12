@@ -21,9 +21,9 @@ Lightweight, beautiful, fast, and portable.
 
 **[Download for Windows](https://github.com/4worlds4w-svg/inkwell/releases/latest)** — `inkwell.exe`
 
-**[Download for macOS](https://github.com/4worlds4w-svg/inkwell/releases/latest)** — `Inkwell_1.5.1_aarch64.dmg`
+**[Download for macOS](https://github.com/4worlds4w-svg/inkwell/releases/latest)** — `Inkwell_1.5.2_aarch64.dmg`
 
-**[Download for Linux](https://github.com/4worlds4w-svg/inkwell/releases/latest)** — `Inkwell_1.5.1_amd64.deb`
+**[Download for Linux](https://github.com/4worlds4w-svg/inkwell/releases/latest)** — `Inkwell_1.5.2_amd64.deb`
 
 
 Or via winget:
